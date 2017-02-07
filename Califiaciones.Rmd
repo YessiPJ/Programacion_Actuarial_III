@@ -1,0 +1,85 @@
+---
+title: "Calificaciones"
+author: "Yessica Pantaleon"
+date: "4 de febrero de 2017"
+output: html_document
+---
+
+
+
+
+Introducción a la Profesión Actuarial 9
+
+Programación Actuarial I              9
+
+Conceptos de Cálculo                  9
+
+DHPC                                 10
+
+Teoría de Ecuaciones                 10
+
+Geometría                            10
+
+Teoría del Interés I                  8
+
+Contabilidad General                 10
+
+Formación Humana y Social            10
+
+Matemáticas Básicas                   6
+
+Problemas de Matemáticas Básicas      6
+
+Teoría de Interés II                  9
+
+Microeconomía                        10
+
+DHTIC                                10
+
+Cálculo Diferencial                   9
+
+Álgebra Lineal                        9
+
+Programación Actuarial II             9
+
+Sistema Financiero Mexicano          10
+
+Macroeconomía                         8
+
+Cálculo Integral                     10
+
+Demografía                            9
+
+Cálculo Dif. en Varias Variables     10
+
+Ecuaciones Diferenciales             10
+
+Intr. Estructuras Álgebraicas         9
+
+Probabilidad I                        7
+
+Legislación de Seguros                9
+
+Matemática Actuariales I              8
+
+Programación Lineal                  10
+
+Probabilidad II                       8
+
+Análisis en Rn                        8
+
+Cal.Integral en Varias Variables      9
+
+Matemática Actuariales II             9
+
+Derivados Financieros                10
+
+Finanzas Corporativas                 8
+
+Estadistica I                         9
+
+Ingles I                              9
+
+Ingles II                             9
+
+Ingles III                            9
